@@ -1,3 +1,1 @@
-What is the command to open a file from within Emacs?
-
-Answer: Crtl + X + F
+C-x C-f
